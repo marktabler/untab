@@ -1,0 +1,12 @@
+Untab
+
+Untab is a simple utility for conversion of Windows-style Ruby source files to Unix-style Ruby source files.
+
+Usage: untab <filename>
+
+Untab will automatically back up your file with the extension .ut_bak
+
+Untab will replace a hard tab with two spaces, and will replace the Windows-style newline \r\n with the Unix style newline \n.
+
+Enjoy!
+
